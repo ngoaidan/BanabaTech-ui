@@ -8033,7 +8033,8 @@ h1, h2, h3, h4, h5,
     background: #2f89fc; }
   @media (max-width: 767.98px) {
     .aside-stretch {
-      background: transparent; }
+      /*background: transparent; */
+    }
       .aside-stretch:after {
         background: transparent;
         display: none; } }
